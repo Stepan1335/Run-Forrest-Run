@@ -1,0 +1,13 @@
+ForrestSpeed,0.1
+ForrestJumpForce,1100
+ForrestHealth,3
+ForrestLives,3
+EasyEnemySpeed,0.06
+EasyEnemyBulletSpeed,1.5
+EasyEnemyHealth,1
+MediumEnemySpeed,0.075
+MediumEnemyBulletSpeed,2
+MediumEnemyHealth,2
+HardEnemySpeed,0.09
+HardEnemyBulletSpeed,2.5
+HardEnemyHealth,3
